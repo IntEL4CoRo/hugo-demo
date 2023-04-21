@@ -4,14 +4,14 @@ theme = 'github-style'
 
 
 [params]
-  author = "IntEL4 CoRo"
-  description = "Student"
-  github = "IntEL4CoRo"
-  email = "intel4coro@uni-bremen.de"
+  author = "Hugo Github"
+  description = "Teacher"
+  github = "hugo"
+  email = "hugo@uni-bremen.de"
   url = "https://intel4coro.ai.uni-bremen.de/"
   lastmod = true
   userStatusEmoji = "🙂"
-  favicon = "./images/iai.png"
+  favicon = "https://ai.uni-bremen.de/lib/tpl/agkitpl/images/ai_small.png"
   location = "Bremen, Germany"
   enableGitalk = false
 
@@ -21,7 +21,7 @@ theme = 'github-style'
 [[params.links]]
   title = "Institute for Artificial Intelligence"
   href = "https://ai.uni-bremen.de/"
-  icon = "./images/iai.png"
+  icon = "https://ai.uni-bremen.de/lib/tpl/agkitpl/images/ai_small.png"
 [[params.links]]
   title = "Uni-Bremen"
   href = "https://www.uni-bremen.de/"
