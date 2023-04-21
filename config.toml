@@ -1,3 +1,36 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'Intel4coro'
+title = 'IntEL4CoRo Dashboard'
+theme = 'github-style'
+
+
+[params]
+  author = "IntEL4 CoRo"
+  description = "Student"
+  github = "IntEL4CoRo"
+  email = "intel4coro@uni-bremen.de"
+  url = "https://intel4coro.ai.uni-bremen.de/"
+  lastmod = true
+  userStatusEmoji = "🙂"
+  favicon = "/images/iai.png"
+  location = "Bremen, Germany"
+  enableGitalk = false
+
+[[params.links]]
+  title = "IntEL4CoRo"
+  href = "https://intel4coro.ai.uni-bremen.de/"
+[[params.links]]
+  title = "Institute for Artificial Intelligence"
+  href = "https://ai.uni-bremen.de/"
+  icon = "/images/iai.png"
+[[params.links]]
+  title = "Uni-Bremen"
+  href = "https://www.uni-bremen.de/"
+  icon = "https://www.duweisstwarum.de/wp-content/uploads/2022/04/UHB-Uni-Bremen-duweisstwarum-01.png"
+
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
+
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files
