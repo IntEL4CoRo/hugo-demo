@@ -22,7 +22,7 @@ theme = 'github-style'
 [[params.links]]
   title = "Institute for Artificial Intelligence"
   href = "https://ai.uni-bremen.de/"
-  icon = "/images/iai.png"
+  icon = "./images/iai.png"
 [[params.links]]
   title = "Uni-Bremen"
   href = "https://www.uni-bremen.de/"
