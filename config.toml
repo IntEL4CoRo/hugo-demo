@@ -1,4 +1,3 @@
-baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'IntEL4CoRo Dashboard'
 theme = 'github-style'
