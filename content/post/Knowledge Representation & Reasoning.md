@@ -1,7 +1,7 @@
 ---
 title: "Knowledge Representation & Reasoning"
 date: 2022-08-22T18:46:47+08:00
-draft: true
+draft: false
 tags: ['Course']
 ---
 

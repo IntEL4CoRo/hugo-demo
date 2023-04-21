@@ -1,7 +1,7 @@
 ---
 title: "Integrated Intelligent Systems"
 date: 2023-04-21T18:46:47+08:00
-draft: true
+draft: false
 tags: ['Course']
 ---
 
