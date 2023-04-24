@@ -7,6 +7,7 @@ theme = 'github-style'
 [params]
   author = "Prof. Michael Beetz"
   description = "Teacher"
+  github = "code-iai"
   email = "beetz@cs.uni-bremen.de"
   url = "https://ai.uni-bremen.de/team/michael_beetz"
   lastmod = true
