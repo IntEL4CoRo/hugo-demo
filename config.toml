@@ -1,23 +1,21 @@
+baseURL = 'https://iris.informatik.uni-bremen.de/learner'
 languageCode = 'en-us'
-title = 'IntEL4CoRo Dashboard'
+title = 'IntEL4CoRo'
 theme = 'github-style'
 
 
 [params]
-  author = "Hugo Github"
-  description = "Teacher"
-  github = "hugo"
-  email = "hugo@uni-bremen.de"
-  url = "https://intel4coro.ai.uni-bremen.de/"
+  author = "Feroz Ahmed Siddiky"
+  description = "Learner"
+  github = "intel4coro"
+  email = "siddiky@cs.uni-bremen.de"
+  url = "https://ai.uni-bremen.de/team/feroz_ahmed_siddiky"
   lastmod = true
   userStatusEmoji = "🙂"
   favicon = "https://ai.uni-bremen.de/lib/tpl/agkitpl/images/ai_small.png"
   location = "Bremen, Germany"
   enableGitalk = false
 
-[[params.links]]
-  title = "IntEL4CoRo"
-  href = "https://intel4coro.ai.uni-bremen.de/"
 [[params.links]]
   title = "Institute for Artificial Intelligence"
   href = "https://ai.uni-bremen.de/"
