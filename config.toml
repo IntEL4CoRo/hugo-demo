@@ -1,14 +1,14 @@
+baseURL = 'https://iris.informatik.uni-bremen.de/teacher'
 languageCode = 'en-us'
-title = 'IntEL4CoRo Dashboard'
+title = 'IntEL4CoRo'
 theme = 'github-style'
 
 
 [params]
-  author = "Hugo Github"
+  author = "Prof. Michael Beetz"
   description = "Teacher"
-  github = "hugo"
-  email = "hugo@uni-bremen.de"
-  url = "https://intel4coro.ai.uni-bremen.de/"
+  email = "beetz@cs.uni-bremen.de"
+  url = "https://ai.uni-bremen.de/team/michael_beetz"
   lastmod = true
   userStatusEmoji = "🙂"
   favicon = "https://ai.uni-bremen.de/lib/tpl/agkitpl/images/ai_small.png"
