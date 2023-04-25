@@ -1,7 +1,7 @@
 # hugo-demo
 
 ### Live Demo: 
-
+* https://intel4coro.github.io/hugo-demo/ (Branch teacher)
 * https://iris.informatik.uni-bremen.de/teacher/  (Branch teacher)
 * https://iris.informatik.uni-bremen.de/student/  (Branch student)
 
