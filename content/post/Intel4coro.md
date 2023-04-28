@@ -16,13 +16,13 @@ Cognitive robotics is a driving force for the development of AI systems that can
 The skills to understand and develop such AI systems can best be taught using open robot control systems that contain a broad spectrum of AI technologies. The goal of IntEL4CoRo is to create and operate such a learning environment for cognitive robotics that enables competence-oriented teaching.
 
 <video width=100% controls>
-    <source src="./videos/intel4coro_intro_video.mp4" type="video/mp4">
+    <source src="https://iris.informatik.uni-bremen.de/teacher/videos/intel4coro_intro_video.mp4" type="video/mp4">
     Your browser does not support the video tag.  
 </video>
 
 The learning environment will follow an immersive approach, containing robot control systems and photorealistic, physics-based simulation environments for experimentation. The control systems and simulation environments help to illustrate the concepts taught in the courses. They also facilitate the generation of suitable tasks for all related subject areas – students can complete these tasks by programming new components or correcting faulty parts of the teaching systems. In addition, the learning environment is designed for the work on final theses, team-based software development projects and robot competitions.
 
-<a href="./images/intel4coro.png" target="blank"><img width="100%" src="./images/intel4coro.png" /></a>
+<a href="https://iris.informatik.uni-bremen.de/teacher/images/intel4coro.png" target="blank"><img width="100%" src="https://iris.informatik.uni-bremen.de/teacher/images/intel4coro.png" /></a>
 <!--more-->
 
 Configurations of the teaching system that can be transferred to real robots ensure practical relevance. Additional simulation scenarios in which autonomous robots assist and cooperate with humans provide a basis for discussion and the framework for ethical, legal and social issues (ELSI) of AI and cognitive robotics.

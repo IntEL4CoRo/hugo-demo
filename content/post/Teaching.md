@@ -13,8 +13,8 @@ tags_weight: 4
 This course consist of ten modules that together provide an overview of the methods required to build a cognition-enabled robot agent. The appended picture shows an overview of the modules. Each module consists of several video lectures and an exercise. Some modules contain additional learning materials.
 
 <div style="text-align:center;">
-  <a href="https://raw.githubusercontent.com/yxzhan/hugo-demo/teacher/static/images/IIS-provess-overview.png" target="blank">
-    <img width="100%" src="https://raw.githubusercontent.com/yxzhan/hugo-demo/teacher/static/images/IIS-provess-overview.png" />
+  <a href="https://iris.informatik.uni-bremen.de/teacher/images/control_system.png" target="blank">
+    <img width="100%" src="https://iris.informatik.uni-bremen.de/teacher/images/control_system.png" />
   </a>
 </div>
 
