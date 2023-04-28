@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-date: 2023-04-21T18:46:47+08:00
+date: 2023-04-25T18:46:47+08:00
 draft: false
 tags:
 - Teaching
@@ -13,12 +13,14 @@ tags_weight: 4
 This course consist of ten modules that together provide an overview of the methods required to build a cognition-enabled robot agent. The appended picture shows an overview of the modules. Each module consists of several video lectures and an exercise. Some modules contain additional learning materials.
 
 <div style="text-align:center;">
-  <img width="100%" src="https://raw.githubusercontent.com/yxzhan/hugo-demo/teacher/static/images/IIS-provess-overview.png" />
+  <a href="https://raw.githubusercontent.com/yxzhan/hugo-demo/teacher/static/images/IIS-provess-overview.png" target="blank">
+    <img width="100%" src="https://raw.githubusercontent.com/yxzhan/hugo-demo/teacher/static/images/IIS-provess-overview.png" />
+  </a>
 </div>
 
 
 <script>
-  var BINDER_URL="http://192.168.102.0/v2/gh/yxzhan/moodle_jupyter.git/HEAD?urlpath=%2Flab%2Ftree%2Fmoodle_jupyter%2F1%2F"
+  var BINDER_URL="https://binder.intel4coro.de/v2/gh/yxzhan/moodle_jupyter.git/HEAD?urlpath=%2Flab%2Ftree%2Fmoodle_jupyter%2F1%2F"
   function openBinderHub(file) {
     window.open(BINDER_URL + file, file, "popup=1,width=1280,height=720,resizable=no");
   }

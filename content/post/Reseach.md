@@ -10,10 +10,10 @@ tags_weight: 3
 ---
 <!-- #### [euROBIN](https://www.eurobin-project.eu/) -->
 
-<div>
+<div style="display: flex;flex-direction: column;">
 
-<a href="https://www.eurobin-project.eu/" target="_blank">
-  <img width="100%" src="https://www.eurobin-project.eu/images/euROBIN_img/logo_eurobin193x54px.png" />
+<a href="https://www.eurobin-project.eu/" target="_blank" style="text-align: center;">
+  <img width="auto" src="https://www.eurobin-project.eu/images/euROBIN_img/eurobin-eurocore-20.jpg" />
 </a>
 
 Cognition-enabled transferable embodied AI is the main goal of the euROBIN research agenda and the network of excellence that emerges from it. Scientifically, euROBIN will take a new and integrated perspective in designing the future ecosystem of heterogeneous intelligent machines interacting with humans.
