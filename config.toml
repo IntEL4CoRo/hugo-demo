@@ -1,15 +1,14 @@
-baseURL = 'https://iris.informatik.uni-bremen.de/learner'
+baseURL = 'https://iris.informatik.uni-bremen.de/student'
 languageCode = 'en-us'
 title = 'IntEL4CoRo'
 theme = 'github-style'
 
 
 [params]
-  author = "Feroz Ahmed Siddiky"
-  description = "Learner"
-  github = "intel4coro"
-  email = "siddiky@cs.uni-bremen.de"
-  url = "https://ai.uni-bremen.de/team/feroz_ahmed_siddiky"
+  author = "Jörn Syrbe"
+  description = "Student"
+  github = "IntEL4CoRo"
+  email = "syrbe@uni-bremen.de"
   lastmod = true
   userStatusEmoji = "🙂"
   favicon = "https://ai.uni-bremen.de/lib/tpl/agkitpl/images/ai_small.png"
