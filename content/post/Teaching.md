@@ -18,11 +18,15 @@ This course consist of ten modules that together provide an overview of the meth
   </a>
 </div>
 
-
 <script>
   var BINDER_URL="https://binder.intel4coro.de/v2/gh/yxzhan/moodle_jupyter.git/main?urlpath=%2Flab%2Ftree%2F1%2F"
+  var popupWindows = {}
   function openBinderHub(file) {
-    window.open(BINDER_URL + file, file, "popup=1,width=1280,height=720,resizable=no");
+    if (!popupWindows[file] || popupWindows[file].closed) {
+      popupWindows[file] = window.open(BINDER_URL + file, file, "popup=1,width=1280,height=720,resizable=no");
+    } else {
+      popupWindows[file].focus();
+    }
   }
   function openSlide(url) {
     window.open(url, 'slide', "popup=1,width=1280,height=720,resizable=no");
