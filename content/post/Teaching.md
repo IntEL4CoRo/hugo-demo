@@ -19,7 +19,7 @@ This course consist of ten modules that together provide an overview of the meth
 </div>
 
 <script>
-  var BINDER_URL="https://binder.intel4coro.de/v2/gh/yxzhan/moodle_jupyter.git/main?urlpath=%2Flab%2Ftree%2F1%2F"
+  var BINDER_URL="https://binder.intel4coro.de/v2/gh/IntEL4CoRo/ease_fall_school_2022.git/binderhub?urlpath=%2Flab%2Ftree%2FDay1%2Flectures%2F"
   var popupWindows = {}
   function openBinderHub(file) {
     if (!popupWindows[file] || popupWindows[file].closed) {
